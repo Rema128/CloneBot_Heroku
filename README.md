@@ -48,7 +48,8 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 1 : ᴠɪᴀ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴ𝙨
 
-[![Deploy](https://www.heroku.com/deploy)
+[![Deploy]
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/Rema128/CloneBot_Heroku/
 
 
 
